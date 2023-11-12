@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anyowusu
 - 👀 I’m interested in RD design and GIS Analysis 
-- 🌱 I’m currently learning Regression Descounity Design (RDD) design and Spatial Econometrics
+- 🌱 I’m currently learning ...... design and Spatial Econometrics
 - 💞️ I’m looking to collaborate on the application of experimental research design in poverty analysis and the impact of trade policy 
 - 📫 How to reach me nyowusuagyeman@gmail.com
 
