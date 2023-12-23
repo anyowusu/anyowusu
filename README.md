@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @anyowusu
+- I am a dedicated and data-driven Policy Researcher and Analyst with a passion for making informed, evidence-based decisions
 - 👀 I’m interested in RD design and GIS Analysis 
-- 🌱 I’m currently learning ...... design and Spatial Econometrics
+- 🌱 Background in social and economic research, I specialize in trade/industrial policy and household welfare, financing and behavioural issues on health care and economic valuation of policy interventions.
 - 💞️ I’m looking to collaborate on the application of experimental research design in poverty analysis and the impact of trade policy 
 - 📫 How to reach me nyowusuagyeman@gmail.com
-
-<!---
-anyowusu/anyowusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
